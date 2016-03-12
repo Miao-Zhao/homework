@@ -1,0 +1,47 @@
+body{
+	color:black;
+	background-color:white;
+	font-family:"微软雅黑";
+	font-size:22pt;
+}
+#titlename{
+	text-align:center;
+	margin-left:15%;
+	margin-right:15%;
+}
+#titlename h1{
+	text-align:center;
+	background-color:grey;
+	padding:0px 0px 4px 0px;
+	min-width:780px;
+}
+#nav{
+	background-color:white;/*将导航块背景设为白色*/
+	width:16%;
+	min-width:150px;
+	margin-top:0px;
+	margin-left:15%;
+	float:left; 
+	height:311px;
+}
+#nav h3{
+	margin-left:5px;
+	margin-top:5px;
+	margin-bottom:0px
+}
+#content{
+	background-color:#yellow;
+	margin-right:20%;
+	padding-left:0.5%;
+	padding-right:0.5%;
+	width:53%;
+	min-width:580px;
+	float:right;
+}
+p{
+	text-align:center;
+	color:orange;
+}
+p.rowtwo{
+	color:cyan;
+}
